@@ -91,5 +91,5 @@ main {
 
 /*   ATTRIBUTION   */
 
-.attribution { font-size: 11px; text-align: center; margin-top: auto; margin-bottom: 1em; }
+.attribution { font-size: 11px; text-align: center; margin-top: auto; margin-bottom: 1em; display: flex;}
 .attribution a { color: hsl(228, 45%, 44%); }
